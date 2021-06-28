@@ -1,7 +1,7 @@
-<h1 align="center">Hello World 🌎, I´m Eduardo</h1>
-<h3 align="center">A lifelong learner, programming enthusiast, full stack developer</h3>
+<h1 align="center">Hello World 🌎</h1>
+<h3 align="center">I´m a lifelong learner, programming enthusiast, full stack developer</h3>
 
-- 🌱 I’m currently improving **my Java skills**
+- 🌱 currently improving **my RoR skills**
 
 - 📫 How to reach me: **mr.eduardo.carneiro@gmail.com**
 
