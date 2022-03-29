@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 🌎</h1>
 <h3 align="center">I´m a lifelong learner, programming enthusiast, full stack developer</h3>
 
-- 🌱 currently improving **my RoR skills**
+- 🌱 currently improving **my programming skills**
 
 - 📫 How to reach me: **mr.eduardo.carneiro@gmail.com**
 
