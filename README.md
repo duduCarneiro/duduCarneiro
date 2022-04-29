@@ -2,7 +2,7 @@
 <h3 align="center">I´m a lifelong learner, programming enthusiast, full stack developer</h3>
 
 - 🌱 Currently improving **my programming skills**
-- 📄 Know about my experiences: **[my resume](https://duducarneiro.github.io./)**
+- 📄 Know about my experiences: **<a href="https://duducarneiro.github.io./" target="_blank">my resume</a>**
 - 📫 How to reach me: **mr.eduardo.carneiro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
