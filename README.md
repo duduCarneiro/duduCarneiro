@@ -1,5 +1,4 @@
-<h1 align="center">Hello World 🌎</h1>
-<h3 align="center">I´m a lifelong learner, programming enthusiast, full stack developer</h3>
+<h1 align="center">🖥️</h1>
 
 - 🌱 Currently improving **my programming skills**
 - 📄 Know about my experiences: **<a href="https://duducarneiro.github.io./" target="_blank">my resume</a>**
