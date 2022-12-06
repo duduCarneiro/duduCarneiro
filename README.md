@@ -2,7 +2,7 @@
 
 - 🌱 Currently improving **my programming skills**
 - 📄 Know about my experiences: **<a href="https://duducarneiro.github.io./" target="_blank">my resume</a>**
-- 📫 How to reach me: **mr.eduardo.carneiro@gmail.com**
+- 📫 How to reach me: **eduardocarneiro.ca@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
